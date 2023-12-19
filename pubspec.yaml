@@ -1,10 +1,10 @@
-name: popupbanner
-description: Popup banner is a Flutter Widget Package to show banners/ads in your flutter app using modal dialog
+name: popupads
+description: Popup ads is a Flutter Widget Package to show banners/ads in your flutter app using modal dialog
 version: 1.0.0
-homepage: https://github.com/slimpotatoboy/popupbanner
+homepage: https://github.com/slimpotatoboy/popupads
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: ">=3.1.5 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
